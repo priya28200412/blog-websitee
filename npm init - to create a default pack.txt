@@ -1,0 +1,11 @@
+npm init - to create a default package.json file
+
+install dependencies :
+npm i express mongoose ejs
+express - node js framework which helps to run the server effectively
+mongooge - to connect the db mongodb
+ejs - to create views
+
+install dev dependency:
+npm i --save-dev nodemon
+nodemon - helps to automatically refresh the project , no need to reboot the system again and again , it saves the time
